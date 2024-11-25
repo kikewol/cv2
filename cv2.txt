@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Curriculum Vitae de Enrique Esteban Wolters</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+            color: #007bff;
+        }
+        .contact-info {
+            font-size: 1.1em;
+            margin-top: 10px;
+        }
+        .contact-info a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        .section h3 {
+            color: #007bff;
+        }
+        .section ul {
+            padding-left: 20px;
+        }
+        .section ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Enrique Esteban Wolters</h1>
+            <p class="contact-info">
+                <strong>Cel.:</strong> (0381) 155-288081 | <strong>Email:</strong> <a href="mailto:enwol_22@hotmail.com">enwol_22@hotmail.com</a> | 
+                <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/esteban-wolters" target="_blank">www.linkedin.com/in/esteban-wolters</a><br>
+                <strong>Domicilio:</strong> Salta 372, Dpto. 4C, S.M. de Tucumán, Tucumán | <strong>Carnet de Manejo:</strong> A1.4/B2 | <strong>Disponibilidad:</strong> Para Traslado
+            </p>
+        </header>
+
+        <section class="section">
+            <h2>Perfil Profesional</h2>
+            <p>
+                Profesional con más de 10 años de experiencia en la supervisión de mantenimiento, administración de recursos humanos, y diseño técnico en el área de ingeniería. Poseo una sólida formación técnica en Ingeniería Mecánica, con habilidades en gestión de proyectos, liderazgo, y mejora continua de procesos. Comprometido con el aprendizaje constante y la mejora de los resultados empresariales mediante trabajo en equipo y responsabilidad.
+            </p>
+        </section>
+
+        <section class="section">
+            <h2>Experiencia Laboral</h2>
+
+            <h3>Supervisor de Mantenimiento de Obras Civiles, Seguridad de Presa</h3>
+            <p><strong>Hidroeléctrica Tucumán S.A. | Julio 2019 - Actualidad</strong></p>
+            <ul>
+                <li>Coordinación de mantenimiento de obras civiles y electromecánicas en proyectos hidroeléctricos.</li>
+                <li>Gestión de contratistas y personal, supervisión de cronogramas de auditorías y de trabajos (Gantt).</li>
+                <li>Elaboración de presupuestos, manuales, procedimientos y guías de inspección.</li>
+                <li>Auditor interno de ISO 14001 y gestión de compras/logística.</li>
+                <li>Presentación de informes y capacitaciones ante organismos nacionales e internacionales.</li>
+            </ul>
+
+            <h3>Encargado Administrativo</h3>
+            <p><strong>Bar Victoria | Febrero 2019 - Junio 2019</strong></p>
+            <ul>
+                <li>Control y carga de facturas, manejo de impuestos, arqueo de caja y pagos a proveedores.</li>
+                <li>Uso de sistemas Lomasoft y Nacional Gestión para la administración de la empresa.</li>
+            </ul>
+
+            <h3>Jefe de Recursos Humanos</h3>
+            <p><strong>Invialco S.A. | Enero 2017 - Febrero 2019</strong></p>
+            <ul>
+                <li>Gestión integral del área de RRHH, incluyendo liquidación de sueldos, trámites con AFIP, ART y obras sociales.</li>
+                <li>Supervisión de personal y coordinación de tareas operativas.</li>
+            </ul>
+
+            <h3>Asistente de Recursos Humanos</h3>
+            <p><strong>Invialco S.A. | Enero 2014 - Enero 2017</strong></p>
+            <ul>
+                <li>Gestión administrativa, liquidación de sueldos, control de ausentismo, y tareas operativas de recursos humanos.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Educación</h2>
+            <ul>
+                <li><strong>Ingeniería Mecánica</strong> (Cursando 4º año) - Universidad Tecnológica Nacional, Facultad Regional Tucumán</li>
+                <li><strong>Diplomatura en Diseño y Modelado Mecánico 3D y Simulación Computacional</strong> - UTN Resistencia, Septiembre 2021</li>
+                <li><strong>Diplomatura en Tecnología y Procesos de Producción Mecánica</strong> - UNT, Facultad de Ciencias Exactas y Tecnología</li>
+                <li><strong>Curso de Procesamiento de Datos con Python</strong> - Argentina Programa 4.0, Septiembre 2023</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Habilidades Técnicas</h2>
+            <ul>
+                <li><strong>Software de diseño y modelado:</strong> SolidWorks, AutoCAD 2D, Autodesk 123</li>
+                <li><strong>Gestión de proyectos:</strong> Microsoft Project, Gantt, Excel avanzado</li>
+                <li><strong>Análisis de datos:</strong> Python, Google Colab, GitHub, Pix4D</li>
+                <li><strong>Sistemas de gestión:</strong> Siebel, Pronto Gestión, Bejerman</li>
+                <li><strong>Drones:</strong> Mapeo con Imágenes RGB, MissionPlanner</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Idiomas</h2>
+            <ul>
+                <li>Inglés: Nivel intermedio</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Referencias</h2>
+            <p>Disponibles a solicitud.</p>
+        </section>
+    </div>
+</body>
+</html>
